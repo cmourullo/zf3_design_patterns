@@ -221,4 +221,3 @@ $ composer cs-fix
 # Run PHPUnit tests:
 $ composer test
 ```
-# zf2_social_network
